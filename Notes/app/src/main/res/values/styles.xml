@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyCheckBox" >
+        <item name="colorControlNormal">#FBFBFB</item>   <!-- normal border color change as you wish -->
+        <item name="colorControlActivated">@color/purple_200</item> <!-- activated color change as you wish -->
+        <item name="android:textColor">#FFFF3F3C</item> <!-- checkbox text color -->
+    </style>
+</resources>
